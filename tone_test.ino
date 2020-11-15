@@ -1,4 +1,4 @@
-const int speakPin = A1;
+const int speakPin = 3; //PD3
 long com_choice = 0;
 
 void setup() {
